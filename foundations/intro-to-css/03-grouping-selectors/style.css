@@ -1,0 +1,14 @@
+.invertido{
+  background-color: black;
+  color: white;
+}
+
+.lujoso{
+  background-color: yellow;
+}
+
+.invertido,
+.lujoso{
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
